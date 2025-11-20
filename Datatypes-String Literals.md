@@ -1,6 +1,6 @@
 # Datatypes-Read and Print a String in Python
-#Name: Akash G
-#Reg No: 212224100004
+## Name: Akash G
+## Reg No: 212224100004
 ## 🎯 Aim
 To write a Python program to read a string from the user and then print it.
 
